@@ -78,18 +78,6 @@ WeatherApplication
 
 ---
 
-## Visual Documentation
-
-Screenshots included in the report:
-- Application main screen showing current weather
-- Hourly forecast table
-- Weather alerts and statistics
-- Cache and network status screen  
-
-*(Attach screenshots in your project report)*
-
----
-
 ## Technical Details
 
 ### Architecture
